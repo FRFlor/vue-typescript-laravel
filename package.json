@@ -23,6 +23,7 @@
         "ts-loader": "^5.4.3",
         "typescript": "^3.4.5",
         "vue": "^2.5.17",
+        "vue-property-decorator": "^8.1.0",
         "vue-template-compiler": "^2.6.10"
     }
 }
